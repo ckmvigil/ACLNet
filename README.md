@@ -1,5 +1,5 @@
-ACLNet: An Attention and Clustering-based Cloud Segmentation
-Network
+ACLNet: An Attention and Clustering-based Cloud Segmentation Network
+
 ==============================
 
 This repository contains the source code of our paper, ACLNet (accepted for publication in <a href="https://www.tandfonline.com/journals/trsl20">Remote Sensing Letters</a>).
@@ -93,7 +93,12 @@ Above command will generate Precision, Recall, F1-Score, Error rate, Matthews Co
 
 ## Citation
 ```
-Yet to be updated
+@article {ref162,
+	title = "ACLNet: An Attention and Clustering-based Cloud Segmentation Network",
+	year = "2022",
+	author = "Dhruv Makwana and Subhrajit Nag and Onkar Susladkar and Gayatri Deshmukh and R Sai Chandra Teja and Sparsh Mittal and C Krishna Mohan",
+	journal = "Remote Sensing Letters",
+}
 }
 ```
 ## License
