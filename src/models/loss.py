@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-import tensorflow_addons as tfa
 import tensorflow as tf
 
 def diceCoef(y_true, y_pred, smooth=tf.keras.backend.epsilon()):   
