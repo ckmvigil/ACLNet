@@ -8,7 +8,7 @@ We propose a novel deep learning model named ACLNet, for cloud segmentation
 from ground images. ACLNet uses both deep neural network and machine learning
 (ML) algorithm to extract complementary features. Specifically, it uses EfficientNetB0 as the backbone, "atrous spatial pyramid pooling" (ASPP) to learn at multiple receptive fields, and "global attention module" (GAM) to extract fine-grained details from the image. ACLNet also uses k-means clustering to extract cloud boundaries more precisely. 
 
-<img src="reports/figures/Model_Architecture.png.png">
+<img src="reports/figures/Model_Architecture.png">
 
 ## Sample Results
 <hr>
