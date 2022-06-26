@@ -57,7 +57,7 @@ pip install -r requirements.txt
 First, create a conda environment
 ```bash
 conda create -n aclnet # python=3
-source activate aclnet
+conda activate aclnet
 ```
 
 Now, add dependencies
