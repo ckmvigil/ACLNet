@@ -1,4 +1,5 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/aclnet-an-attention-and-clustering-based/semantic-segmentation-on-swimseg)](https://paperswithcode.com/sota/semantic-segmentation-on-swimseg?p=aclnet-an-attention-and-clustering-based)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/aclnet-an-attention-and-clustering-based/semantic-segmentation-on-swinseg)](https://paperswithcode.com/sota/semantic-segmentation-on-swinseg?p=aclnet-an-attention-and-clustering-based)
 
 ACLNet: An Attention and Clustering-based Cloud Segmentation Network
 
