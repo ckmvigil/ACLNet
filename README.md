@@ -1,3 +1,5 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/aclnet-an-attention-and-clustering-based/semantic-segmentation-on-swimseg)](https://paperswithcode.com/sota/semantic-segmentation-on-swimseg?p=aclnet-an-attention-and-clustering-based)
+
 ACLNet: An Attention and Clustering-based Cloud Segmentation Network
 
 ==============================
@@ -93,12 +95,15 @@ Above command will generate Precision, Recall, F1-Score, Error rate, Matthews Co
 
 ## Citation
 ```
-@article {ref162,
-	title = "ACLNet: An Attention and Clustering-based Cloud Segmentation Network",
-	year = "2022",
-	author = "Dhruv Makwana and Subhrajit Nag and Onkar Susladkar and Gayatri Deshmukh and R Sai Chandra Teja and Sparsh Mittal and C Krishna Mohan",
-	journal = "Remote Sensing Letters",
-}
+@article{makwana2022aclnet,
+  title={ACLNet: an attention and clustering-based cloud segmentation network},
+  author={Makwana, Dhruv and Nag, Subhrajit and Susladkar, Onkar and Deshmukh, Gayatri and Teja R, Sai Chandra and Mittal, Sparsh and Mohan, C Krishna},
+  journal={Remote Sensing Letters},
+  volume={13},
+  number={9},
+  pages={865--875},
+  year={2022},
+  publisher={Taylor \& Francis}
 }
 ```
 ## License
